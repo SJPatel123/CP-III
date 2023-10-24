@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T18:57:48.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9PsbqJHnQvRvDB3xgBc5" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T19:03:02.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="d_XSk7phSJSbmq9zVLh2" version="22.0.7" type="github">
   <diagram name="Page-1" id="vmubJyyzPxgtC7S37uKo">
     <mxGraphModel dx="880" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="817" pageHeight="784" math="0" shadow="0">
       <root>
@@ -7,12 +7,12 @@
         <mxCell id="axnntbHpW0lSgt1LFced-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="axnntbHpW0lSgt1LFced-1" target="axnntbHpW0lSgt1LFced-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="axnntbHpW0lSgt1LFced-62" value="Get notification&lt;br&gt;for adding medicines &amp;amp;&lt;br&gt;prescription" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnntbHpW0lSgt1LFced-61">
+        <mxCell id="axnntbHpW0lSgt1LFced-62" value="Get notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnntbHpW0lSgt1LFced-61">
           <mxGeometry x="0.0286" relative="1" as="geometry">
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axnntbHpW0lSgt1LFced-1" value="MediTrack: A medicine tracking system" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="axnntbHpW0lSgt1LFced-1" value="MediTrack: A medicine tracking system&lt;br&gt;0.0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="236" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="axnntbHpW0lSgt1LFced-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="axnntbHpW0lSgt1LFced-2" target="axnntbHpW0lSgt1LFced-1">
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axnntbHpW0lSgt1LFced-51" value="Search/find&lt;br&gt;medicine&lt;br&gt;suggestions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnntbHpW0lSgt1LFced-47">
+        <mxCell id="axnntbHpW0lSgt1LFced-51" value="Search&lt;br&gt;medicines" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnntbHpW0lSgt1LFced-47">
           <mxGeometry x="-0.0571" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axnntbHpW0lSgt1LFced-53" value="Check list&lt;br&gt;of added&lt;br&gt;medicines" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnntbHpW0lSgt1LFced-52">
+        <mxCell id="axnntbHpW0lSgt1LFced-53" value="Check list&lt;br&gt;of medicines" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnntbHpW0lSgt1LFced-52">
           <mxGeometry x="-0.0337" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -77,9 +77,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axnntbHpW0lSgt1LFced-55" value="Check list&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;of added&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;prescriptions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnntbHpW0lSgt1LFced-54">
+        <mxCell id="axnntbHpW0lSgt1LFced-55" value="Check list&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;of prescriptions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnntbHpW0lSgt1LFced-54">
           <mxGeometry x="-0.0475" relative="1" as="geometry">
-            <mxPoint y="-50" as="offset" />
+            <mxPoint x="6" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="axnntbHpW0lSgt1LFced-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axnntbHpW0lSgt1LFced-2" target="axnntbHpW0lSgt1LFced-1">
