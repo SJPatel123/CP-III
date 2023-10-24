@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T06:04:19.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lG8EnRDEg7-1FTW2wwaE" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T06:05:58.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Nrp1utlbgXqsHxvpcvSf" version="22.0.6" type="github">
   <diagram name="Page-1" id="OYkDFaIK2MURlEOpUX2V">
     <mxGraphModel dx="1730" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -632,8 +632,8 @@
             <mxPoint x="312.0400000000001" y="1184.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_oI5wvVmsvSm2quck6C-47" value="Add Medicine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="156.99" y="1162" width="100" height="30" as="geometry" />
+        <mxCell id="E_oI5wvVmsvSm2quck6C-47" value="Add Prescription" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="151.99" y="1162" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E_oI5wvVmsvSm2quck6C-48" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=none;" edge="1" parent="1" source="E_oI5wvVmsvSm2quck6C-50">
           <mxGeometry x="-1" y="-355" relative="1" as="geometry">
@@ -649,7 +649,7 @@
             <mxPoint x="350" y="295" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_oI5wvVmsvSm2quck6C-50" value="Render Add Medicine Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E_oI5wvVmsvSm2quck6C-50" value="Render Add Prescription Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="169.51" y="1203" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E_oI5wvVmsvSm2quck6C-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.57;exitY=-0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -658,7 +658,7 @@
             <mxPoint x="311.7700000000001" y="1261.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_oI5wvVmsvSm2quck6C-52" value="Click on image icon to take&lt;br&gt;image of medicine &amp;amp; extract&lt;br&gt;name of medicine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="E_oI5wvVmsvSm2quck6C-52" value="Click on image icon to take&lt;br&gt;image of prescription &amp;amp;&lt;br&gt;extract the details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="121.72" y="1238" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_oI5wvVmsvSm2quck6C-53" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
@@ -673,8 +673,8 @@
         <mxCell id="E_oI5wvVmsvSm2quck6C-55" value="Detail send to firebase to store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="329.46000000000004" y="1349" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E_oI5wvVmsvSm2quck6C-56" value="Store Medicine&lt;br&gt;Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="591.51" y="1359" width="100" height="40" as="geometry" />
+        <mxCell id="E_oI5wvVmsvSm2quck6C-56" value="Store Prescription&lt;br&gt;Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="589.51" y="1359" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E_oI5wvVmsvSm2quck6C-57" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=none;" edge="1" parent="1" source="E_oI5wvVmsvSm2quck6C-59">
           <mxGeometry x="-1" y="-355" relative="1" as="geometry">
@@ -699,8 +699,8 @@
             <mxPoint x="311.7700000000001" y="1371.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_oI5wvVmsvSm2quck6C-61" value="Medicine Details with image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="121.72000000000003" y="1349" width="170" height="30" as="geometry" />
+        <mxCell id="E_oI5wvVmsvSm2quck6C-61" value="Prescription Details with image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="111.72000000000003" y="1349" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E_oI5wvVmsvSm2quck6C-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
