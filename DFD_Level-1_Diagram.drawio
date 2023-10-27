@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T18:55:07.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9AzfIdjP6DOt9kz05wAJ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T18:57:13.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="poI7nthJuG14AllWczke" version="22.0.8" type="github">
   <diagram name="Page-1" id="Rs1aMuwNrwx8zFW7lKC0">
     <mxGraphModel dx="1697" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="817" pageHeight="784" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yu-vMoSQ0n794UT8hFaY-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yu-vMoSQ0n794UT8hFaY-1" target="yu-vMoSQ0n794UT8hFaY-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-vMoSQ0n794UT8hFaY-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yu-vMoSQ0n794UT8hFaY-1" target="yu-vMoSQ0n794UT8hFaY-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yu-vMoSQ0n794UT8hFaY-1" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -141,6 +144,12 @@
         </mxCell>
         <mxCell id="yu-vMoSQ0n794UT8hFaY-82" value="Notification of&lt;br&gt;remainder sent&lt;br&gt;to the user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="408" y="61" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-vMoSQ0n794UT8hFaY-84" value="Login" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="275" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-vMoSQ0n794UT8hFaY-86" value="Login&lt;br&gt;details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="373" y="280" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
